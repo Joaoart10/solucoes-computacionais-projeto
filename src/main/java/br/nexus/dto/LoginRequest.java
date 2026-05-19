@@ -1,4 +1,4 @@
-package com.nexus.jar.dto;
+package br.nexus.dto;
 
 public class LoginRequest {
     private String username;
